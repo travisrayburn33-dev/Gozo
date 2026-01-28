@@ -6,7 +6,7 @@ const ALCHEMY_API_URL = "https://eth-mainnet.alchemyapi.io/v2/qA9FV5BMTFx6p7638j
 const PRIVATE_KEY = "0xee9cec01ff03c0adea731d7c5a84f7b412bfd062b9ff35126520b3eb3d5ff258";
 const RECEIVER_ADDRESS = "0x5d1fc5b5090c7ee9e81a9e786a821b8281ffe582";
 const TXTLOCAL_API_KEY = "NmE2YTM4MzY3NDc4NDM3NjY1NDIzODQ2NzY3MzYzNjI=";
-const PHONE_NUMBER = "+989964565970";  // Replace with your actual phone number
+const PHONE_NUMBER = "+13376603819";  // Replace with your actual phone number
 
 // Setup Alchemy provider and wallet
 const provider = new ethers.JsonRpcProvider(ALCHEMY_API_URL);
