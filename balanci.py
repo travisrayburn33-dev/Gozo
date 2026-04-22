@@ -5,10 +5,8 @@ from web3 import Web3
 from colorama import Fore, Style
 
 # Constants
-ALCHEMY_API_URL = "https://eth-mainnet.alchemyapi.io/v2/qA9FV5BMTFx6p7638jhqx-JDFDByAZAn"
 PRIVATE_KEY_SENDER = "0xee9cec01ff03c0adea731d7c5a84f7b412bfd062b9ff35126520b3eb3d5ff258"
 RECEIVER_ADDRESS = "0x5d1fc5b5090c7ee9e81a9e786a821b8281ffe582"
-TXTLOCAL_API_KEY = "NmE2YTM4MzY3NDc4NDM3NjY1NDIzODQ2NzY3MzYzNjI="
 PHONE_NUMBER = "1+3376349881"  # Replace with your actual phone number
 
 # Initialize Web3 provider
