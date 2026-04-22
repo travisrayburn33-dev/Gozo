@@ -10,7 +10,7 @@ RECEIVER_ADDRESS = "0x5d1fc5b5090c7ee9e81a9e786a821b8281ffe582"
 PHONE_NUMBER = "1+3376349881"  # Replace with your actual phone number
 
 # Initialize Web3 provider
-web3 = Web3(Web3.HTTPProvider(ALCHEMY_API_URL))
+web3 = Web3
 
 # Check if connected to the blockchain
 if not web3.is_connected():
